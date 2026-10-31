@@ -148,19 +148,13 @@ Soy un apasionado del desarrollo de software, la ingeniería inversa y la seguri
 
 <div align="center">
 
-### 👾 CONTRIBUTION_GRID
-
-<table width="100%">
+<table width="100%" align="center">
 
 <tr>
 
-<td align="center" style="background:#030B12; border:2px solid #6840B8; padding:2px;">
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/illoquediC/illoquediC/output/pacman-contribution-graph-dark.svg" 
-width="100%" 
-alt="Pacman Contribution Graph">
-</p>
+<td width="100%" align="center" style="background:#030B12; border:2px solid #6840B8; padding:2px;">
+  
+### 👾 CONTRIBUTION_GRID
 
 <p align="center">
 <img src="https://github-readme-stats-fast.vercel.app/api?username=illoquediC&theme=dark&bg_color=030B12&title_color=FFD600&text_color=93BFD6&icon_color=6840B8&border_color=8860C8&ring=D93831&hide_border=false"
@@ -176,6 +170,12 @@ alt="Top Languages">
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=illoquediC&theme=dark&background=030B12&border=8860C8&stroke=6840B8&ring=D93831&fire=FF8B3D&currStreakLabel=8860C8&sideLabels=8860C8&currStreakNum=93BFD6&sideNums=93BFD6&dates=FFD600&hide_border=false" width="100%" alt="GitHub Contribution Streak">
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/illoquediC/illoquediC/output/pacman-contribution-graph-dark.svg" 
+width="100%" 
+alt="Pacman Contribution Graph">
 </p>
 
 <p align="center">
