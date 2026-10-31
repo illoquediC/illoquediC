@@ -200,11 +200,3 @@ alt="GitHub Contribution 3DStreak">
 </div>
 
 
-
-<p align="center" bgcolor="#030B12" style="border: 1px solid #FFD600; background-color: #030B12; padding: 2px;">
-  <img ![Estadísticas de illoquediC](./assets/stats.svg)
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=illoquediC&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-  
-![Stats de illoquediC](./assets/stats1.svg)
-
-</p>
