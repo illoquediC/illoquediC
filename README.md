@@ -146,6 +146,61 @@ Soy un apasionado del desarrollo de software, la ingeniería inversa y la seguri
 
 # 📊 Estadísticas de GitHub
 
+<div align="center">
+
+### 👾 CONTRIBUTION_GRID
+
+<table width="100%">
+
+<tr>
+
+<td align="center" style="background:#030B12; border:2px solid #6840B8; padding:2px;">
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/illoquediC/illoquediC/output/pacman-contribution-graph-dark.svg" 
+width="100%" 
+alt="Pacman Contribution Graph">
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats-fast.vercel.app/api?username=illoquediC&theme=dark&bg_color=030B12&title_color=FFD600&text_color=93BFD6&icon_color=6840B8&border_color=8860C8&ring=D93831&hide_border=false"
+width="100%"
+alt="GitHub Statistics">
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=illoquediC&theme=dark&bg_color=030B12&title_color=FFD600&text_color=93BFD6&icon_color=8860C8&border_color=D93831&layout=compact&hide_border=false"
+width="100%"
+alt="Top Languages">
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=illoquediC&theme=dark&background=030B12&border=8860C8&stroke=6840B8&ring=D93831&fire=FF8B3D&currStreakLabel=8860C8&sideLabels=8860C8&currStreakNum=93BFD6&sideNums=93BFD6&dates=FFD600&hide_border=false" width="100%" alt="GitHub Contribution Streak">
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/illoquediC/illoquediC/main/output/contribs-dark.svg" 
+width="100%" 
+alt="GitHub Contribution 3DStreak">
+</p>
+
+### 📡 CONNECT & SYSTEM INFO
+
+[![GitHub](https://img.shields.io/badge/GITHUB-030B12?style=flat&logo=github&logoColor=FFD600&labelColor=030B12)](https://github.com/illoquediC)
+[![Email](https://img.shields.io/badge/EMAIL-030B12?style=flat&logo=gmail&logoColor=FFD600&labelColor=030B12)](mailto: juliobaptista1312@gmail.com)
+
+![ProfileViews](https://komarev.com/ghpvc/?username=illoquediC&style=flag&label=PROFILE+VIEWS&color=D93831&labelColor=FF6000)
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+
+
 <p align="center" bgcolor="#030B12" style="border: 1px solid #FFD600; background-color: #030B12; padding: 2px;">
   <img ![Estadísticas de illoquediC](./assets/stats.svg)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=illoquediC&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
