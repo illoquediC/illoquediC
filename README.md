@@ -1,10 +1,5 @@
 <h1 align="center">¡Qué pasa, bro! 👋 Bienvenido a mi perfil secundario</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=illoquediC&color=blueviolet&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/illoquediC?label=Seguidores&style=flat&color=orange" alt="Followers" />
-</p>
-
 ---
 
 # 🚀 Sobre mí
@@ -150,24 +145,20 @@ Soy un apasionado del desarrollo de software, la ingeniería inversa y la seguri
 
 <table width="100%" align="center">
 
-<tr>
+<tr width="100%" align="center">
 
 <td width="100%" align="center" style="background:#030B12; border:2px solid #6840B8; padding:2px;">
-  
-### 👾 CONTRIBUTION_GRID
 
 <p width="100%" align="center">
 <img src="https://github-readme-stats-fast.vercel.app/api?username=illoquediC&theme=dark&bg_color=030B12&title_color=FFD600&text_color=93BFD6&icon_color=6840B8&border_color=8860C8&ring=D93831&hide_border=false"
 width="100%"
 alt="GitHub Statistics">
 </p>
-
 <p width="100%" align="center">
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=illoquediC&theme=dark&bg_color=030B12&title_color=FFD600&text_color=93BFD6&icon_color=8860C8&border_color=D93831&layout=compact&hide_border=false"
 width="100%"
 alt="Top Languages">
 </p>
-
 <p width="100%" align="center">
 <img src="https://streak-stats.demolab.com?user=illoquediC&theme=dark&background=030B12&border=8860C8&stroke=6840B8&ring=D93831&fire=FF8B3D&currStreakLabel=8860C8&sideLabels=8860C8&currStreakNum=93BFD6&sideNums=93BFD6&dates=FFD600&hide_border=false" width="100%" alt="GitHub Contribution Streak">
 </p>
