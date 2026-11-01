@@ -177,10 +177,10 @@ alt="GitHub Contribution 3DStreak">
 
 ### 📡 CONNECT & SYSTEM INFO
 
-[![GitHub](https://img.shields.io/badge/GITHUB-030B12?style=flat&logo=github&logoColor=FFD600&labelColor=030B12)](https://github.com/illoquediC)
-[![Email](https://img.shields.io/badge/EMAIL-030B12?style=flat&logo=gmail&logoColor=FFD600&labelColor=030B12)](mailto:juliobaptista1312@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-030B12?style=flat&logo=github&logoColor=FFD6D6&labelColor=030B12)](https://github.com/illoquediC)
+[![Email](https://img.shields.io/badge/EMAIL-030B12?style=flat&logo=gmail&logoColor=FFD6D6&labelColor=030B12)](mailto:juliobaptista1312@gmail.com)
 
-![ProfileViews](https://komarev.com/ghpvc/?username=illoquediC&style=flag&label=PROFILE+VIEWS&color=D93831&labelColor=FF6000)
+![ProfileViews](https://komarev.com/ghpvc/?username=illoquediC&style=flag&label=PROFILE+VIEWS&color=D93831&labelColor=FFD6D6)
 
 </td>
 
