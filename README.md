@@ -1,4 +1,4 @@
-<h1 align="center">¡illo que diC, bro! 👋 Bienvenido a mi perfil secundario</h1>
+<h1 align="center">¡illo que diC, bro!👋 Bienvenido a mi perfil secundario</h1>
 
 ---
 
