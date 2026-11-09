@@ -75,7 +75,7 @@ jobs:
               if d["contributionCount"] > 0
           }
 
-          # Si hoy todavía no hay actividad, empezamos comprobando ayer.
+           # Si hoy todavía no hay actividad, empezamos comprobando ayer.
           current = today
 
           if current not in contribution_dates:
