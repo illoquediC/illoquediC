@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # Aquí puedes añadir un script tuyo en Python o una action que regenere la imagen
+     # Aquí puedes añadir un script tuyo en Python o una action que regenere la imagen
       # Por ejemplo, si usas scripts propios con Pillow/Matplotlib que ya dominas:
       - name: Set up Python
         uses: actions/setup-python@v5
