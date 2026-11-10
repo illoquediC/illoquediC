@@ -25,7 +25,7 @@ Soy un apasionado del desarrollo de software, la ingeniería inversa y la seguri
 # 📌 Repositorios Destacados
 
 *   **[DemoniTalk-Pro](https://github.com/illoquediC/DemoniTalk-Pro)**: Versión avanzada optimizada y reconstruida con Flutter y motor nativo en Rust para comandos de voz y accesibilidad.
-*   
+   
 *   **[HexRootScan](https://github.com/illoquediC/HexRootScan)**: Herramienta potente de auditoría de redes y pruebas de penetración diseñada exclusivamente para dispositivos Android.
 
 <!-- APP_SHOWCASE_START -->
@@ -155,7 +155,7 @@ width="100%"
 alt="GitHub Statistics">
 </p>
 <p width="100%" align="center">
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=illoquediC&theme=dark&bg_color=030B12&title_color=FFD006&text_color=93BFD6&icon_color=8860C8&border_color=D93831&layout=compact&hide_border=false"
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=illoquediC&theme=dark&bg_color=030B12&title_color=FFD006&text_color=93BFD6&icon_color=8860C8&border_color=C81AEE&layout=compact&hide_border=false"
 width="100%"
 alt="Top Languages">
 </p>
