@@ -180,7 +180,7 @@ alt="GitHub Contribution 3DStreak">
 [![GitHub](https://img.shields.io/badge/GITHUB-030B12?style=flat&logo=github&logoColor=FFD006&labelColor=030B12)](https://github.com/illoquediC)
 [![Email](https://img.shields.io/badge/EMAIL-030B12?style=flat&logo=gmail&logoColor=FFD006&labelColor=030B12)](mailto:juliobaptista1312@gmail.com)
 
-![ProfileViews](https://komarev.com/ghpvc/?username=illoquediC&style=flag&label=PROFILE+VIEWS&color=D93831&labelColor=C81AEE)
+![ProfileViews](https://komarev.com/ghpvc/?username=illoquediC&style=flag&label=PROFILE+VIEWS&color=C81AEE&labelColor=C81AEE)
 
 </td>
 
