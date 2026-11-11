@@ -24,21 +24,21 @@ Soy un apasionado del desarrollo de software, la ingeniería inversa y la seguri
 
 # 📌 Repositorios Destacados
 
-*   **[DemoniTalk-Pro](https://github.com/illoquediC/DemoniTalk-Pro)**: Versión avanzada optimizada y reconstruida con Flutter y motor nativo en Rust para comandos de voz y accesibilidad.
+*   **[DemoniTalk-Pro](https://github.com/Jaypsmall/DemoniTalk-Pro)**: Versión avanzada optimizada y reconstruida con Flutter y motor nativo en Rust para comandos de voz y accesibilidad.
    
-*   **[HexRootScan](https://github.com/illoquediC/HexRootScan)**: Herramienta potente de auditoría de redes y pruebas de penetración diseñada exclusivamente para dispositivos Android.
+*   **[HexRootScan](https://github.com/Jaypsmall/HexRootScan)**: Herramienta potente de auditoría de redes y pruebas de penetración diseñada exclusivamente para dispositivos Android.
 
-*   **[HexRootFuzz](https://github.com/illoquediC/HexRootFuzz)**: Módulo de fuzzing y pruebas de estrés para análisis de seguridad y vulnerabilidades en entornos Android.
+*   **[HexRootFuzz](https://github.com/Jaypsmall/HexRootFuzz)**: Módulo de fuzzing y pruebas de estrés para análisis de seguridad y vulnerabilidades en entornos Android.
 
-*   **[HexColor-Pro](https://github.com/illoquediC/HexColor-Pro)**: Aplicación multiplataforma profesional con paleta de colores para desarrolladores y diseñadores (captura de cámara, armonías e HSL).
+*   **[HexColor-Pro](https://github.com/Jaypsmall/HexColor-Pro)**: Aplicación multiplataforma profesional con paleta de colores para desarrolladores y diseñadores (captura de cámara, armonías e HSL).
 
-*   **[HexColor](https://github.com/illoquediC/HexColor)**: Herramienta de paleta de colores optimizada para entornos Android con renderizado nativo.
+*   **[HexColor](https://github.com/Jaypsmall/HexColor)**: Herramienta de paleta de colores optimizada para entornos Android con renderizado nativo.
 
-*   **[DemoniWifi](https://github.com/illoquediC/DemoniWifi)**: Herramienta de análisis, diagnóstico y auditoría de redes inalámbricas para Android.
+*   **[DemoniWifi](https://github.com/Jaypsmall/DemoniWifi)**: Herramienta de análisis, diagnóstico y auditoría de redes inalámbricas para Android.
 
-*   **[CpuTemp](https://github.com/illoquediC/CpuTemp)**: Utilidad de monitoreo del sistema en tiempo real para control de temperatura y frecuencias térmicas del procesador.
+*   **[CpuTemp](https://github.com/Jaypsmall/CpuTemp)**: Utilidad de monitoreo del sistema en tiempo real para control de temperatura y frecuencias térmicas del procesador.
 
-*   **[DaltonicAssist](https://github.com/illoquediC/DaltonicAssist)**: Aplicación de accesibilidad visual diseñada para asistencia en tiempo real a usuarios con deficiencias en la percepción del color.
+*   **[Daltonic-Assist-Pro](https://github.com/Jaypsmall/Daltonic-Assist-Pro)**: Aplicación de accesibilidad visual diseñada para asistencia en tiempo real a usuarios con deficiencias en la percepción del color.
    
 
 
