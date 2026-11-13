@@ -2,7 +2,7 @@
 
 ---
 
-# 🚀 Sobre mí
+# 🚀 Sobre mí 🚀
 
 Soy un apasionado del desarrollo de software, la ingeniería inversa y la seguridad en dispositivos móviles. En este espacio centralizo forks, herramientas de auditoría y proyectos experimentales enfocados en el ecosistema Android y utilidades de alto rendimiento.
 
