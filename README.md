@@ -42,10 +42,7 @@ Soy un apasionado del desarrollo de software, la ingeniería inversa y la seguri
    
 
 
-<!-- APP_SHOWCASE_START -->
 
-<table width="100%" align="center" cellspacing="5" cellpadding="0">
-<tr>
 <td width="50%" valign="top" align="center">
 <h2>😈 Dark Tools 😈</h2>
 <b>Root &nbsp;·&nbsp; Pentesting &nbsp;·&nbsp; Android</b>
@@ -72,7 +69,7 @@ Soy un apasionado del desarrollo de software, la ingeniería inversa y la seguri
 <img src="https://github.com/user-attachments/assets/5e21897e-a29b-4009-a95e-535245b3765f" width="80" alt="Dimetu">
 </a>
 </td>
-</tr>
+   
 <tr>
 <td align="center" style="border: 2px solid #FFD600; background-color: #030B12; padding: 6px; border-radius: 8px;">
 <a href="https://github.com/Jaypsmall/HexRootFuzz">
@@ -96,7 +93,10 @@ Soy un apasionado del desarrollo de software, la ingeniería inversa y la seguri
 </td>
 </tr>
 </table>
-</td>
+
+
+
+  
 <td width="50%" valign="top" align="center">
 <h2>📱 General Apps 📱</h2>
 <b>Utilities &nbsp;·&nbsp; Accessibility &nbsp;·&nbsp; Science</b>
@@ -147,11 +147,6 @@ Soy un apasionado del desarrollo de software, la ingeniería inversa y la seguri
 </td>
 </tr>
 </table>
-</td>
-</tr>
-</table>
-
-<!-- APP_SHOWCASE_END -->
 
 ---
 
