@@ -50,8 +50,8 @@ Soy un apasionado del desarrollo de software, la ingeniería inversa y la seguri
 <table align="center" cellspacing="4" cellpadding="0">
 <tr>
 <td align="center" style="border: 2px solid #FFD600; background-color: #030B12; padding: 6px; border-radius: 8px;">
-<a href="https://github.com/Jaypsmall/CpuTemp">
-<img src="https://github.com/user-attachments/assets/bcc27085-68f8-4ca7-a8be-6dd9f012b0d2" width="80" alt="CpuTemp">
+<a href="https://github.com/Jaypsmall/DemoniTalk">
+<img src="https://github.com/Jaypsmall/DemoniTalk-Pro/blob/0daaef85f6f85f04af5b7b0b21ef008ead1f4622/assets/icon/BackgroundEraser_20261125_161213932.png" width="80" alt="DemoniTalk">
 </a>
 </td>
 <td align="center" style="border: 2px solid #FFD600; background-color: #030B12; padding: 6px; border-radius: 8px;">
@@ -69,7 +69,7 @@ Soy un apasionado del desarrollo de software, la ingeniería inversa y la seguri
 <img src="https://github.com/user-attachments/assets/5e21897e-a29b-4009-a95e-535245b3765f" width="80" alt="Dimetu">
 </a>
 </td>
-   
+</tr>
 <tr>
 <td align="center" style="border: 2px solid #FFD600; background-color: #030B12; padding: 6px; border-radius: 8px;">
 <a href="https://github.com/Jaypsmall/HexRootFuzz">
@@ -82,8 +82,8 @@ Soy un apasionado del desarrollo de software, la ingeniería inversa y la seguri
 </a>
 </td>
 <td align="center" style="border: 2px solid #FFD600; background-color: #030B12; padding: 6px; border-radius: 8px;">
-<a href="https://github.com/Jaypsmall/DemoniTalk">
-<img src="https://github.com/user-attachments/assets/95ba40b6-9836-4334-8e0d-5f2f5b7e0b10" width="80" alt="DemoniTalk">
+<a href="https://github.com/Jaypsmall/CpuTemp">
+<img src="https://github.com/user-attachments/assets/bcc27085-68f8-4ca7-a8be-6dd9f012b0d2" width="80" alt="CpuTemp">
 </a>
 </td>
 <td align="center" style="border: 2px solid #FFD600; background-color: #030B12; padding: 6px; border-radius: 8px;">
@@ -93,8 +93,6 @@ Soy un apasionado del desarrollo de software, la ingeniería inversa y la seguri
 </td>
 </tr>
 </table>
-
-
 
   
 <td width="50%" valign="top" align="center">
