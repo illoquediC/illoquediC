@@ -56,7 +56,7 @@ Soy un apasionado del desarrollo de software, la ingeniería inversa y la seguri
 </td>
 <td align="center" style="border: 2px solid #FFD600; background-color: #030B12; padding: 6px; border-radius: 8px;">
 <a href="https://github.com/Jaypsmall/DemoniWifi">
-<img src="https://github.com/user-attachments/assets/9ad55d19-f202-4565-b7d3-d928fe8c0735" width="80" alt="DemoniWifi">
+<img src="https://github.com/Jaypsmall/DemoniWifi/blob/5df619791a180fe461511613aae71aea05e7ac86/assets/icon_demoniwifi.png" width="80" alt="DemoniWifi">
 </a>
 </td>
 <td align="center" style="border: 2px solid #FFD600; background-color: #030B12; padding: 6px; border-radius: 8px;">
