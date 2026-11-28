@@ -1,4 +1,4 @@
-<h1 align="center">¡illo que diC, bro!👋 Bienvenido a mi perfil secundario</h1>
+<h1 align="center">¡illo que diC, bro!👋 Bienvenido a mi perfil secundario <img src="https://github.com/Jaypsmall/Jaypsmall/blob/e41fbcc471bda80eca5903650c7c3911fd84d981/assets/icon_labA512.png" height="30" alt="Lab" /></h1>
 
 ---
 
