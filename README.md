@@ -1,4 +1,4 @@
-<h1 align="center">¡illo que diC, bro!👋 Bienvenido a mi perfil secundario <img src="https://github.com/Jaypsmall/Jaypsmall/blob/e41fbcc471bda80eca5903650c7c3911fd84d981/assets/icon_labA512.png" height="30" alt="Lab" /></h1>
+<h1 align="center">¡illo que diC, bro!👋 Bienvenido a mi perfil secundario</h1>
 
 ---
 
@@ -26,9 +26,9 @@ Soy un apasionado del desarrollo de software, la ingeniería inversa y la seguri
 
 *   **[DemoniTalk-Pro](https://github.com/Jaypsmall/DemoniTalk-Pro)**: Versión avanzada optimizada y reconstruida con Flutter y motor nativo en Rust para comandos de voz y accesibilidad.
    
-*   **[HexRootScan](https://github.com/Jaypsmall/HexRootScan)**: Herramienta potente de auditoría de redes y pruebas de penetración diseñada exclusivamente para dispositivos Android.
+*   **<img src="https://github.com/Jaypsmall/Jaypsmall/blob/e41fbcc471bda80eca5903650c7c3911fd84d981/assets/icon_labA128.png" height="20" alt="Lab" />[HexRootScan](https://github.com/Jaypsmall/HexRootScan)**: Herramienta potente de auditoría de redes y pruebas de penetración diseñada exclusivamente para dispositivos Android.
 
-*   **[HexRootFuzz](https://github.com/Jaypsmall/HexRootFuzz)**: Módulo de fuzzing y pruebas de estrés para análisis de seguridad y vulnerabilidades en entornos Android.
+*   **<img src="https://github.com/Jaypsmall/Jaypsmall/blob/e41fbcc471bda80eca5903650c7c3911fd84d981/assets/icon_labR128.png" height="20" alt="Lab" />[HexRootFuzz](https://github.com/Jaypsmall/HexRootFuzz)**: Módulo de fuzzing y pruebas de estrés para análisis de seguridad y vulnerabilidades en entornos Android.
 
 *   **[HexColor-Pro](https://github.com/Jaypsmall/HexColor-Pro)**: Aplicación multiplataforma profesional con paleta de colores para desarrolladores y diseñadores (captura de cámara, armonías e HSL).
 
